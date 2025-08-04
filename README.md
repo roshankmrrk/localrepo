@@ -1,1 +1,1 @@
-This is md README Local repoo
+My local README content merged with remote content
